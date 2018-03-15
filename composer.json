@@ -1,0 +1,16 @@
+{
+    "name": "lavanapp/tcpdf",
+    "version" : "1.0.0",
+    "description": "tcpdf Library by Lavanapp",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Anna Dallago",
+            "email": "anna@lavanapp.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+         "psr-4": { "Lvtcpdf\\": "" }
+     }
+}
