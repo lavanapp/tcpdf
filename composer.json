@@ -1,6 +1,6 @@
 {
     "name": "lavanapp/tcpdf",
-    "version" : "1.0.0",
+    "version" : "1.0.1",
     "description": "tcpdf Library by Lavanapp",
     "type": "library",
     "authors": [
